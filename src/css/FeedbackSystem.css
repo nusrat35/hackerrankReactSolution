@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+}
+.container{
+    display: flex;
+    gap: 10px;
+}
+.card{
+    border: 1px solid green;
+    width: 200px;
+    padding: 10px;
+}
